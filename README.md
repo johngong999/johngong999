@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=flameOvO.flameOvO)
 
 ![](https://p1.nanmuxuan.com/images/46/c734e175f1d50f93.jpg)
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=flameOvO.flameOvO)
+
 <!--
 **flameOvO/flameOvO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
