@@ -1,9 +1,14 @@
-### hi there, Here is Xingming 👋 ![](https://visitor-badge.glitch.me/badge?page_id=flameOvO.flameOvO)
+### 👋 hi there, Here is Xingming 
 
-| <a href="https://github.com/flameOvO/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=flameOvO&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/flameOvO/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flameOvO&layout=compact&theme=buefy&hide_border=true" /></a> |
+- 🔭 I’m currently working on Alipay
+- 🌱 I’m currently learning WLB
+
+
+
+|<a href="https://github.com/flameOvO/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=flameOvO&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/flameOvO/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flameOvO&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+| <img width="500" src="https://gw.alipayobjects.com/mdn/rms_adbd8c/afts/img/A*yA3CS7P8MS4AAAAAAAAAAAAAARQnAQ">| <img width="400" src="https://visitor-badge.glitch.me/badge?page_id=flameOvO.flameOvO"> |
 
-![](https://gw.alipayobjects.com/mdn/rms_adbd8c/afts/img/A*yA3CS7P8MS4AAAAAAAAAAAAAARQnAQ)
 
 
 
