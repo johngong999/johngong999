@@ -1,6 +1,10 @@
 ### hi there, Here is Xingming 👋 ![](https://visitor-badge.glitch.me/badge?page_id=flameOvO.flameOvO)
 
+| <a href="https://github.com/flameOvO/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=flameOvO&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/flameOvO/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flameOvO&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 ![](https://gw.alipayobjects.com/mdn/rms_adbd8c/afts/img/A*yA3CS7P8MS4AAAAAAAAAAAAAARQnAQ)
+
 
 
 
