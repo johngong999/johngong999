@@ -1,4 +1,4 @@
-### 👋 hi there, Here is Xingming 
+### 👋 hi there, Here is John Gong 
 
 - 🔭 I’m currently working on Alipay
 - 🌱 I’m currently learning WLB
