@@ -3,9 +3,9 @@
 - 🔭 I’m currently working on Alipay
 - 🌱 I’m currently learning WLB
 
-<img width="120" src="https://visitor-badge.glitch.me/badge?page_id=flameOvO.flameOvO">
+<img width="120" src="https://visitor-badge.glitch.me/badge?page_id=johngong999.johngong999">
 
-|<a href="https://github.com/flameOvO/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=flameOvO&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/flameOvO/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flameOvO&layout=compact&theme=buefy&hide_border=true" /></a> |
+|<a href="https://github.com/johngong999/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=johngong999&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/johngong999/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johngong999&layout=compact&theme=buefy&hide_border=true" /></a> |
 | :-:  | :-: |
 
 
@@ -13,7 +13,7 @@
 
 
 <!--
-**flameOvO/flameOvO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**johngong999/johngong999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
