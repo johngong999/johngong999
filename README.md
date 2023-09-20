@@ -1,7 +1,5 @@
 ### 👋 hi there, Here is John Gong 
 
-- 🔭 I’m currently working on Alipay
-- 🌱 I’m currently learning WLB
 
 <img width="120" src="https://visitor-badge.glitch.me/badge?page_id=johngong999.johngong999">
 
